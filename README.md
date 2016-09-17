@@ -17,4 +17,4 @@ if you are having issues with the typescript plugin not being found
 
 to test bundling run 
 
-jspm bundle app/main  test.js
+     jspm bundle app/main  test.js
