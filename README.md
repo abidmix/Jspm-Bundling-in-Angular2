@@ -7,7 +7,6 @@ Run
 4. jspm install
 5. npm start
 
-
 The command jspm install will automatically change the paths section and adds a node config wrapper around paths. Change it back to
 
      'paths': {
